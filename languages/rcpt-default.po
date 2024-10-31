@@ -1,0 +1,23 @@
+msgid "Shows the most recent posts from a selected custom post type"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Post type:"
+msgstr ""
+
+msgid "Limit:"
+msgstr ""
+
+msgid "Show featured thumbnails <small>(if available)</small>:"
+msgstr ""
+
+msgid "S'Additional CSS class(es) <small>(optional)</small>:"
+msgstr ""
+
+msgid "One or more space separated valid CSS class names that will be applied to the generated list"
+msgstr ""
+
+msgid "Posted on"
+msgstr ""
